@@ -1,0 +1,82 @@
+Info: Lettura file netlist "/Users/administrator/Documents/test/test.net".
+
+Info: Uso dei riferimenti per associare le impronte ai componenti.
+
+Info: Verifica netlist componenti impronte "J1:/594AE210:Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm".
+
+Aggiungi nuovo componente "J1:/594AE210" impronta "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm".
+
+Cambio componente "J1:/594AE210" pin "1" nome net da "" a "GNDREF".
+
+Cambio componente "J1:/594AE210" pin "2" nome net da "" a "Net-(J1-Pad2)".
+
+Cambio componente "J1:/594AE210" pin "3" nome net da "" a "Net-(J1-Pad3)".
+
+Info: Verifica netlist componenti impronte "R1:/594AD62D:Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Aggiungi nuovo componente "R1:/594AD62D" impronta "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Cambio componente "R1:/594AD62D" pin "1" nome net da "" a "+3V3".
+
+Cambio componente "R1:/594AD62D" pin "2" nome net da "" a "Net-(R1-Pad2)".
+
+Info: Verifica netlist componenti impronte "R2:/594AD5E8:Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Aggiungi nuovo componente "R2:/594AD5E8" impronta "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Cambio componente "R2:/594AD5E8" pin "1" nome net da "" a "+3V3".
+
+Cambio componente "R2:/594AD5E8" pin "2" nome net da "" a "Net-(R2-Pad2)".
+
+Info: Verifica netlist componenti impronte "R3:/594ADCFA:Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Aggiungi nuovo componente "R3:/594ADCFA" impronta "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Cambio componente "R3:/594ADCFA" pin "1" nome net da "" a "+3V3".
+
+Cambio componente "R3:/594ADCFA" pin "2" nome net da "" a "Net-(R3-Pad2)".
+
+Info: Verifica netlist componenti impronte "SW1:/594AD8F2:Buttons_Switches_THT:SW_PUSH_6mm".
+
+Aggiungi nuovo componente "SW1:/594AD8F2" impronta "Buttons_Switches_THT:SW_PUSH_6mm".
+
+Cambio componente "SW1:/594AD8F2" pin "2" nome net da "" a "Net-(R1-Pad2)".
+
+Cambio componente "SW1:/594AD8F2" pin "1" nome net da "" a "GNDREF".
+
+Cambio componente "SW1:/594AD8F2" pin "2" nome net da "" a "Net-(R1-Pad2)".
+
+Cambio componente "SW1:/594AD8F2" pin "1" nome net da "" a "GNDREF".
+
+Info: Verifica netlist componenti impronte "SW2:/594ADD7F:Buttons_Switches_THT:SW_PUSH_6mm".
+
+Aggiungi nuovo componente "SW2:/594ADD7F" impronta "Buttons_Switches_THT:SW_PUSH_6mm".
+
+Cambio componente "SW2:/594ADD7F" pin "2" nome net da "" a "GNDREF".
+
+Cambio componente "SW2:/594ADD7F" pin "1" nome net da "" a "Net-(R3-Pad2)".
+
+Cambio componente "SW2:/594ADD7F" pin "2" nome net da "" a "GNDREF".
+
+Cambio componente "SW2:/594ADD7F" pin "1" nome net da "" a "Net-(R3-Pad2)".
+
+Info: Verifica netlist componenti impronte "U1:/594AD322:ESP8266:ESP-01".
+
+Aggiungi nuovo componente "U1:/594AD322" impronta "ESP8266:ESP-01".
+
+Cambio componente "U1:/594AD322" pin "1" nome net da "" a "Net-(J1-Pad3)".
+
+Cambio componente "U1:/594AD322" pin "2" nome net da "" a "GNDREF".
+
+Cambio componente "U1:/594AD322" pin "3" nome net da "" a "Net-(R2-Pad2)".
+
+Cambio componente "U1:/594AD322" pin "4" nome net da "" a "Net-(U1-Pad4)".
+
+Cambio componente "U1:/594AD322" pin "5" nome net da "" a "Net-(R1-Pad2)".
+
+Cambio componente "U1:/594AD322" pin "6" nome net da "" a "Net-(R3-Pad2)".
+
+Cambio componente "U1:/594AD322" pin "7" nome net da "" a "+3V3".
+
+Cambio componente "U1:/594AD322" pin "8" nome net da "" a "Net-(J1-Pad2)".
+
